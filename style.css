@@ -103,9 +103,9 @@ section .content p{
   opacity: 0;
 }
 #two{
-  width: 840px;
-  height: 450px;
-  margin-top: -230px;
+  width: 880px;
+  height: 750px;
+  margin-top: -380px;
   margin-left: -180px;
   margin-bottom: 0px;
   float: left;
